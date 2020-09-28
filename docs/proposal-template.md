@@ -1,14 +1,15 @@
-Team name:
+Team name: Team Google Stadia
 
-Team members:
+Team members: Josh Knibbe, Noah Kuite, Gabe Armstrong, Brannon Fletcher
 
 # Introduction
 
-(In 2-4 paragraphs, describe your project concept)
+Our project is a hardcore platformer with a theme of timeperiod advancement. The player begins the game as a Caveman/Neanderthal and is able to advance to more developed/modern castes by passing levels and achieving experience.
+We plan to include various items such as weapons and powerups. We will also develop a number of enemies based on the timeperiod theme. 
 
 # Anticipated Technologies
 
-(What technologies are needed to build this project)
+We will be using Unity to create our game. Unity implements the C# programming language which we as a group will have to learn and use for our game.
 
 # Method/Approach
 
@@ -20,4 +21,6 @@ Team members:
 
 # Anticipated Problems
 
-(Describe any problems you foresee that you will need to overcome)
+ - Getting associated with unity
+ - Learning C#
+ - Prioritization
