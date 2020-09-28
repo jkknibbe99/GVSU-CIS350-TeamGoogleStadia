@@ -13,16 +13,16 @@ We will be using Unity to create our game. Unity implements the C# programming l
 
 # Method/Approach
 
-We plan to split up the work amongst ourselves. This would include: 
+We plan to split up the work amongst ourselves. This has yet to be decided, but the work includes: 
 
 * Menu Design 
 * Level Design 
 * Item Design 
 * NPC Development
 * Character Design
-* Overall control and actions that can be done by the play
+* Overall control and actions of the character. 
 
-This isn't everything that has to be done but it's a start of the work that has to be split amongst us evenly. The goal is to meet every Friday around 2pm to run over difficulties that someone may have encountered. As well as go over what has been done and what still needs to be. 
+This isn't everything that has to be done but it's a start of the work that has to be split amongst us evenly. The goal is to meet every Friday around 2pm to go over difficulties that may have arisen. As well as go over what has been completed and what still needs to be finished. As more challenges arise or as the due date approaches we may end up meeting 2 or 3 times per week to help keep ourselves on track.
 
 # Estimated Timeline
 
