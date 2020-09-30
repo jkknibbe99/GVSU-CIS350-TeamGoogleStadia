@@ -26,7 +26,12 @@ This isn't everything that has to be done but it's a start of the work that has 
 
 # Estimated Timeline
 
-(Figure out what your major milestones for this project will be, including how long you anticipate it *may* take to reach that point)
+* Controls completed(attacking, moving, etc.) - 2-3 weeks
+* First level completed - 2 weeks
+* First item completed - 1-2 weeks
+* Shops/stores added - 3 weeks
+* All levels completed - 9-10 weeks
+* All items completed - 6-7 weeks
 
 # Anticipated Problems
 
