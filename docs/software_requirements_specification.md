@@ -12,9 +12,11 @@ It lists the various features and requirements that will be acheived in our proj
 	1. The character shall lose health when hit by an enemy attack
 1. Gameplay
 	1. The menu shall appear on game startup
-	1. The game shall end when the player's health is 0
+	1. The game shall end when the player's health is ii0
 	1. The level shall change when the player advances to the end of the current level
-
+	1. The player's health shall recover when they acquire a health item
+1. Enemies
+	1. An enemy shall be killed and be removed from the game-screen when the player fully depletes the enemy's health
 # Non-Functional Requirements
 
 1. Design/Artwork
@@ -28,3 +30,7 @@ It lists the various features and requirements that will be acheived in our proj
 	1. The game shall run smoothly and not crash in any instance
 	1. The player character's movement shall be smooth/fluid and easy to control
 	1. The game scheme shall be hardcore where the player loses all progres when they die
+	1. The game shall quit/start when the user starts/exits the game
+	1. The player shall lose all items when health reaches 0
+	1. The player shall be able to buy items from the store if they have a sufficient amount of money
+
