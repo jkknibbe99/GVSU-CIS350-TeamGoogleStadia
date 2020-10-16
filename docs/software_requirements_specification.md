@@ -17,6 +17,9 @@ It lists the various features and requirements that will be acheived in our proj
 	1. The player's health shall recover when they acquire a health item
 1. Enemies
 	1. An enemy shall be killed and be removed from the game-screen when the player fully depletes the enemy's health
+	1. The enemies shall lose health when attacked. 
+	1. The enemies shall attack the user when in range. 
+	1. The enemies shall move around the level. 
 # Non-Functional Requirements
 
 1. Design/Artwork
