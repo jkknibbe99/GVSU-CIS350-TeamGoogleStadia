@@ -12,7 +12,7 @@ It lists the various features and requirements that will be acheived in our proj
 	1. The character shall lose health when hit by an enemy attack
 1. Gameplay
 	1. The menu shall appear on game startup
-	1. The game shall end when the player's health is ii0
+	1. The game shall end when the player's health is 0
 	1. The level shall change when the player advances to the end of the current level
 	1. The player's health shall recover when they acquire a health item
 1. Enemies
@@ -20,6 +20,7 @@ It lists the various features and requirements that will be acheived in our proj
 	1. The enemies shall lose health when attacked. 
 	1. The enemies shall attack the user when in range. 
 	1. The enemies shall move around the level. 
+	1. The enemies shall spawn randomly throughout the level. 
 # Non-Functional Requirements
 
 1. Design/Artwork
