@@ -13,6 +13,4 @@ __Use Case:__ Moving the Main Character
 **Cross Ref:** Requirenments 1-ii
 
 **Use-Cases:** When the arrow keys, w,a,s,d, or spacebar are pressed the game engine will comply with the
-	   movement   
-	     	 
-
+	   movement
