@@ -1,4 +1,4 @@
-##__PoS Extended Use-case Description__
+## __PoS Extended Use-case Description__
 
 __Use Case:__ Moving the Main Character
 
