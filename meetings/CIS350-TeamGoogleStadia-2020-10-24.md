@@ -18,6 +18,7 @@ Discussion points:
 - Weapons:
 	- Club, rock, spear. 
 	- Sword, crossbow, mace
+	
 Goals for next week: 
 - More enemies made
 - Enemies take damage when hit/disappear when killed
