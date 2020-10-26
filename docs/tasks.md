@@ -1,4 +1,4 @@
-#Project Tasks
+# Project Tasks
 ## Completed Tasks
 ### Get Unity up and running
 * Description: All team members have unity working and assets pushed to the team Github repo.
@@ -35,13 +35,13 @@
 * Responsible Person(s): Not assigned
 ### Items
 * Description: Development and implementation of player items including health potion, powerups, weapons, etc.
-* Expected Time to Complete: 
+* Expected Time to Complete: 6 weeks
 * Responsible Person(s): Not assigned
 ### Enemies
 * Description: The design and implementation for enemy characters.
-* Expected Time to Complete: 2 weeks
+* Expected Time to Complete: 3 weeks
 * Responsible Person(s): Noah
 ### Audio
 * Description: Sound effects and music
-* Expected Time to Complete: 2 weeks
+* Expected Time to Complete: 3 weeks
 * Responsible Person(s): Not assigned
