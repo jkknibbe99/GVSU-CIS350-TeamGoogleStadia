@@ -1,6 +1,6 @@
 Team name: Team Google Stadia
 
-Members present: Noah Kuite, Gabe Armstrong
+Members present: Noah Kuite, Gabe Armstrong, Brannon Fletcher
 
 Date: November 1, 2020
 
@@ -19,4 +19,5 @@ Goals for next week (include responsibilities)
  - Add knockback to enemies
  - Add spawners for enemies
  - More progress in animation and levels
+ - Finish futuristic level
 
