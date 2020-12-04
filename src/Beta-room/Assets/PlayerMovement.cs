@@ -26,6 +26,7 @@ public class PlayerMovement : MonoBehaviour
     void Start()
     {
         currentHealth = maxHealth; 
+        animator.SetInteger("Era",1);
     }
 
     // Update is called once per frame
