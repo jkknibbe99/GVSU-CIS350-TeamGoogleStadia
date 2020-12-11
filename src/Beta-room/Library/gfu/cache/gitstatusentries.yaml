@@ -13,225 +13,66 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-12-11T13:14:47.165-05:00
-  initializedAtString: 2020-12-11T13:14:01.753-05:00
+  lastUpdatedAtString: 2020-12-11T13:48:12.886-05:00
+  initializedAtString: 2020-12-11T13:43:18.448-05:00
   entries:
-  - path: src/Beta-room/Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure
-      Jungle Pack/day/platform-blocks/OLd.prefab
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Assets/Brutal
-      2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/day/platform-blocks/OLd.prefab
-    projectPath: Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle
-      Pack/day/platform-blocks/OLd.prefab
+  - path: src/Beta-room/Assets/EnemySpawner.cs
+    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Assets/EnemySpawner.cs
+    projectPath: Assets/EnemySpawner.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: src/Beta-room/Assets/EnemySpawner.cs.meta
+    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Assets/EnemySpawner.cs.meta
+    projectPath: Assets/EnemySpawner.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: src/Beta-room/Assets/Scenes/Old.unity
+    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Assets/Scenes/Old.unity
+    projectPath: Assets/Scenes/Old.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: src/Beta-room/Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure
-      Jungle Pack/sunset/backgrounds/jungle-cloud-02.asset
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Assets/Brutal
-      2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/sunset/backgrounds/jungle-cloud-02.asset
-    projectPath: Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle
-      Pack/sunset/backgrounds/jungle-cloud-02.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: src/Beta-room/Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure
-      Jungle Pack/sunset/backgrounds/jungle-cloud-02.asset.meta
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Assets/Brutal
-      2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/sunset/backgrounds/jungle-cloud-02.asset.meta
-    projectPath: Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle
-      Pack/sunset/backgrounds/jungle-cloud-02.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: src/Beta-room/Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure
-      Jungle Pack/sunset/backgrounds/jungle-cloud-05.asset
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Assets/Brutal
-      2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/sunset/backgrounds/jungle-cloud-05.asset
-    projectPath: Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle
-      Pack/sunset/backgrounds/jungle-cloud-05.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: src/Beta-room/Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure
-      Jungle Pack/sunset/backgrounds/jungle-cloud-05.asset.meta
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Assets/Brutal
-      2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/sunset/backgrounds/jungle-cloud-05.asset.meta
-    projectPath: Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle
-      Pack/sunset/backgrounds/jungle-cloud-05.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: src/Beta-room/Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure
-      Jungle Pack/sunset/platform-blocks/platform-block-01.asset
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Assets/Brutal
-      2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/sunset/platform-blocks/platform-block-01.asset
-    projectPath: Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle
-      Pack/sunset/platform-blocks/platform-block-01.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: src/Beta-room/Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure
-      Jungle Pack/sunset/platform-blocks/platform-block-01.asset.meta
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Assets/Brutal
-      2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/sunset/platform-blocks/platform-block-01.asset.meta
-    projectPath: Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle
-      Pack/sunset/platform-blocks/platform-block-01.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: src/Beta-room/Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure
-      Jungle Pack/sunset/platform-blocks/platform-block-07.asset
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Assets/Brutal
-      2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/sunset/platform-blocks/platform-block-07.asset
-    projectPath: Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle
-      Pack/sunset/platform-blocks/platform-block-07.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: src/Beta-room/Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure
-      Jungle Pack/sunset/platform-blocks/platform-block-07.asset.meta
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Assets/Brutal
-      2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/sunset/platform-blocks/platform-block-07.asset.meta
-    projectPath: Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle
-      Pack/sunset/platform-blocks/platform-block-07.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: src/Beta-room/Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure
-      Jungle Pack/sunset/platform-blocks/platform-block-08.asset
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Assets/Brutal
-      2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/sunset/platform-blocks/platform-block-08.asset
-    projectPath: Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle
-      Pack/sunset/platform-blocks/platform-block-08.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: src/Beta-room/Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure
-      Jungle Pack/sunset/platform-blocks/platform-block-08.asset.meta
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Assets/Brutal
-      2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/sunset/platform-blocks/platform-block-08.asset.meta
-    projectPath: Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle
-      Pack/sunset/platform-blocks/platform-block-08.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: src/Beta-room/Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure
-      Jungle Pack/sunset/platform-blocks/platform-block-09.asset
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Assets/Brutal
-      2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/sunset/platform-blocks/platform-block-09.asset
-    projectPath: Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle
-      Pack/sunset/platform-blocks/platform-block-09.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: src/Beta-room/Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure
-      Jungle Pack/sunset/platform-blocks/platform-block-09.asset.meta
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Assets/Brutal
-      2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/sunset/platform-blocks/platform-block-09.asset.meta
-    projectPath: Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle
-      Pack/sunset/platform-blocks/platform-block-09.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: src/Beta-room/Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure
-      Jungle Pack/sunset/platform-details/platform-detail-02.asset
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Assets/Brutal
-      2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/sunset/platform-details/platform-detail-02.asset
-    projectPath: Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle
-      Pack/sunset/platform-details/platform-detail-02.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: src/Beta-room/Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure
-      Jungle Pack/sunset/platform-details/platform-detail-02.asset.meta
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Assets/Brutal
-      2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/sunset/platform-details/platform-detail-02.asset.meta
-    projectPath: Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle
-      Pack/sunset/platform-details/platform-detail-02.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: src/Beta-room/Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure
-      Jungle Pack/sunset/platform-details/platform-detail-09.asset
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Assets/Brutal
-      2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/sunset/platform-details/platform-detail-09.asset
-    projectPath: Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle
-      Pack/sunset/platform-details/platform-detail-09.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: src/Beta-room/Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure
-      Jungle Pack/sunset/platform-details/platform-detail-09.asset.meta
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Assets/Brutal
-      2D Adventure Mega Pack/Brutal 2D Adventure Jungle Pack/sunset/platform-details/platform-detail-09.asset.meta
-    projectPath: Assets/Brutal 2D Adventure Mega Pack/Brutal 2D Adventure Jungle
-      Pack/sunset/platform-details/platform-detail-09.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: src/Beta-room/Library/ArtifactDB
     fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/ArtifactDB
     projectPath: Library/ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: src/Beta-room/Library/Artifacts/04/04fcdcb16b610630011a83998a1d56af
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/Artifacts/04/04fcdcb16b610630011a83998a1d56af
-    projectPath: Library/Artifacts/04/04fcdcb16b610630011a83998a1d56af
+  - path: src/Beta-room/Library/Artifacts/65/65286ca83478c66f416e5a2996359fc6
+    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/Artifacts/65/65286ca83478c66f416e5a2996359fc6
+    projectPath: Library/Artifacts/65/65286ca83478c66f416e5a2996359fc6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: src/Beta-room/Library/Artifacts/15/15986ec6fcb4b57906fca79186d5f98b
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/Artifacts/15/15986ec6fcb4b57906fca79186d5f98b
-    projectPath: Library/Artifacts/15/15986ec6fcb4b57906fca79186d5f98b
+  - path: src/Beta-room/Library/Artifacts/74/740c691aaf41b2443f4b36fd40a9108c
+    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/Artifacts/74/740c691aaf41b2443f4b36fd40a9108c
+    projectPath: Library/Artifacts/74/740c691aaf41b2443f4b36fd40a9108c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: src/Beta-room/Library/Artifacts/40/40ce3d8626515a63151c6e152a95dea3
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/Artifacts/40/40ce3d8626515a63151c6e152a95dea3
-    projectPath: Library/Artifacts/40/40ce3d8626515a63151c6e152a95dea3
+  - path: src/Beta-room/Library/Artifacts/8f/8f0eab2a20d467ebf14e2d7618b0617e
+    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/Artifacts/8f/8f0eab2a20d467ebf14e2d7618b0617e
+    projectPath: Library/Artifacts/8f/8f0eab2a20d467ebf14e2d7618b0617e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: src/Beta-room/Library/Artifacts/4b/4b71aefb818436f94fc969792d6e2121
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/Artifacts/4b/4b71aefb818436f94fc969792d6e2121
-    projectPath: Library/Artifacts/4b/4b71aefb818436f94fc969792d6e2121
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: src/Beta-room/Library/CurrentLayout-default.dwlt
+    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/CurrentLayout-default.dwlt
+    projectPath: Library/CurrentLayout-default.dwlt
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: src/Beta-room/Library/Artifacts/65/657f66aec28712ee5d874003d5fe44b9
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/Artifacts/65/657f66aec28712ee5d874003d5fe44b9
-    projectPath: Library/Artifacts/65/657f66aec28712ee5d874003d5fe44b9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: src/Beta-room/Library/Artifacts/6e/6e64ea7e6c36ddbbe721d9bf2c95a52a
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/Artifacts/6e/6e64ea7e6c36ddbbe721d9bf2c95a52a
-    projectPath: Library/Artifacts/6e/6e64ea7e6c36ddbbe721d9bf2c95a52a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: src/Beta-room/Library/Artifacts/a6/a669442f1a7e38941c9d3216510dbfb3
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/Artifacts/a6/a669442f1a7e38941c9d3216510dbfb3
-    projectPath: Library/Artifacts/a6/a669442f1a7e38941c9d3216510dbfb3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: src/Beta-room/Library/Artifacts/e1/e1cb7f1e273082433bb112e326974db0
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/Artifacts/e1/e1cb7f1e273082433bb112e326974db0
-    projectPath: Library/Artifacts/e1/e1cb7f1e273082433bb112e326974db0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: src/Beta-room/Library/Artifacts/f8/f8cd7688262f305dcf4d6c804c8fe4ec
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/Artifacts/f8/f8cd7688262f305dcf4d6c804c8fe4ec
-    projectPath: Library/Artifacts/f8/f8cd7688262f305dcf4d6c804c8fe4ec
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: src/Beta-room/Library/EditorInstance.json
     fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/EditorInstance.json
     projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: src/Beta-room/Library/gfu/cache/branches.yaml
+    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -241,6 +82,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: src/Beta-room/Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: src/Beta-room/Library/gfu/cache/gitstatusentries.yaml
     fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/gfu/cache/gitstatusentries.yaml
     projectPath: Library/gfu/cache/gitstatusentries.yaml
@@ -259,9 +106,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: src/Beta-room/Library/LastSceneManagerSetup.txt
+    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/LastSceneManagerSetup.txt
+    projectPath: Library/LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: src/Beta-room/Library/SceneVisibilityState.asset
     fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/SceneVisibilityState.asset
     projectPath: Library/SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: src/Beta-room/Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: src/Beta-room/Library/ScriptAssemblies/Assembly-CSharp.pdb
+    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/ScriptAssemblies/Assembly-CSharp.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -271,9 +136,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: src/Beta-room/Temp/UnityLockfile
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Temp/UnityLockfile
-    projectPath: Temp/UnityLockfile
+  - path: src/Beta-room/Library/StateCache/Hierarchy/7dac72-mainStage.json
+    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/StateCache/Hierarchy/7dac72-mainStage.json
+    projectPath: Library/StateCache/Hierarchy/7dac72-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: src/Beta-room/Library/StateCache/SceneView/9c7476-mainStage.json
+    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/StateCache/SceneView/9c7476-mainStage.json
+    projectPath: Library/StateCache/SceneView/9c7476-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: src/Beta-room/Temp/UnityTempFile-0bbffc66ab8fb4edd95f84df2a4951d9
+    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Temp/UnityTempFile-0bbffc66ab8fb4edd95f84df2a4951d9
+    projectPath: Temp/UnityTempFile-0bbffc66ab8fb4edd95f84df2a4951d9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: src/Beta-room/Temp/UnityTempFile-844f39b7fb687454daf50ba0bd099a81
+    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Temp/UnityTempFile-844f39b7fb687454daf50ba0bd099a81
+    projectPath: Temp/UnityTempFile-844f39b7fb687454daf50ba0bd099a81
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
