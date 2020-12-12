@@ -6,10 +6,11 @@ using UnityEngine.SceneManagement;
 public class LevelLoader : MonoBehaviour
 {
     public GameObject cam;
+    public int level;
     void OnTriggerEnter2D(Collider2D other)
     {
         if(other.CompareTag("Player")){
-            SceneManager.LoadScene(1);
+            SceneManager.LoadScene(level);
         }
     }
     // Start is called before the first frame update
