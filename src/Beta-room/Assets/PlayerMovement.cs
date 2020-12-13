@@ -26,7 +26,7 @@ public class PlayerMovement : MonoBehaviour
     void Start()
     {
         currentHealth = maxHealth; 
-        animator.SetInteger("Era",1);
+        animator.SetInteger("Era",0);
         DontDestroyOnLoad(gameObject);
     }
 
