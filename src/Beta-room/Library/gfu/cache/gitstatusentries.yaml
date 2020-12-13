@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-12-13T15:45:53.326-05:00
-  initializedAtString: 2020-12-13T15:26:15.439-05:00
+  lastUpdatedAtString: 2020-12-13T17:00:20.870-05:00
+  initializedAtString: 2020-12-13T16:50:15.447-05:00
   entries:
-  - path: src/Beta-room/Assets/LevelLoader.cs
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Assets/LevelLoader.cs
-    projectPath: Assets/LevelLoader.cs
+  - path: src/Beta-room/Assets/CameraFollow.cs
+    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Assets/CameraFollow.cs
+    projectPath: Assets/CameraFollow.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -65,15 +65,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: src/Beta-room/Library/Artifacts/d2/d2c3ed5d0154ce976651d4d5fc8e0b7e
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/Artifacts/d2/d2c3ed5d0154ce976651d4d5fc8e0b7e
-    projectPath: Library/Artifacts/d2/d2c3ed5d0154ce976651d4d5fc8e0b7e
+  - path: src/Beta-room/Library/Artifacts/4d/4dcedf6664ee74cbb82a3eb719548f95
+    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/Artifacts/4d/4dcedf6664ee74cbb82a3eb719548f95
+    projectPath: Library/Artifacts/4d/4dcedf6664ee74cbb82a3eb719548f95
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: src/Beta-room/Library/Artifacts/e0/e0b22c71b916984f41cc2d03a826fc93
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/Artifacts/e0/e0b22c71b916984f41cc2d03a826fc93
-    projectPath: Library/Artifacts/e0/e0b22c71b916984f41cc2d03a826fc93
+  - path: src/Beta-room/Library/Artifacts/e6/e6dfc5deefc65d95bab0191259d7990a
+    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/Artifacts/e6/e6dfc5deefc65d95bab0191259d7990a
+    projectPath: Library/Artifacts/e6/e6dfc5deefc65d95bab0191259d7990a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -104,12 +104,6 @@ MonoBehaviour:
   - path: src/Beta-room/Library/gfu/cache/repoinfo.yaml
     fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/gfu/cache/repoinfo.yaml
     projectPath: Library/gfu/cache/repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: src/Beta-room/Library/InspectorExpandedItems.asset
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Library/InspectorExpandedItems.asset
-    projectPath: Library/InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -161,9 +155,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: src/Beta-room/Temp/UnityTempFile-52a736f49aeba4f0d96a43355b526d66
-    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Temp/UnityTempFile-52a736f49aeba4f0d96a43355b526d66
-    projectPath: Temp/UnityTempFile-52a736f49aeba4f0d96a43355b526d66
+  - path: src/Beta-room/Temp/UnityTempFile-2a6b87722dd504af5a90c3e10ccb01ed
+    fullPath: /Users/noah/Documents/CIS350/GVSU-CIS350-TeamGoogleStadia/src/Beta-room/Temp/UnityTempFile-2a6b87722dd504af5a90c3e10ccb01ed
+    projectPath: Temp/UnityTempFile-2a6b87722dd504af5a90c3e10ccb01ed
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
