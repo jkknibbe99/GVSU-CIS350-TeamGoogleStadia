@@ -3029,7 +3029,12 @@ PrefabInstance:
     - target: {fileID: 7008294112665163401, guid: 486209b81be9d4e1c8603d074a3f2d94,
         type: 3}
       propertyPath: m_Mass
-      value: 0.5
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7008294112665163401, guid: 486209b81be9d4e1c8603d074a3f2d94,
+        type: 3}
+      propertyPath: m_UseAutoMass
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7008294112665163402, guid: 486209b81be9d4e1c8603d074a3f2d94,
         type: 3}
@@ -3125,6 +3130,11 @@ PrefabInstance:
         type: 3}
       propertyPath: runSpeed
       value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 7008294112665163414, guid: 486209b81be9d4e1c8603d074a3f2d94,
+        type: 3}
+      propertyPath: attackRange
+      value: 1.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 486209b81be9d4e1c8603d074a3f2d94, type: 3}
