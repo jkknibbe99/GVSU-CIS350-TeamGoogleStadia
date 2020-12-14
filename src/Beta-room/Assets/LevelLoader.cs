@@ -7,6 +7,8 @@ public class LevelLoader : MonoBehaviour
 {
     public GameObject cam;
     public int level;
+    public int scene;
+    public Animator m_Animator;
     void OnTriggerEnter2D(Collider2D other)
     {
         if(other.CompareTag("Player")){
@@ -16,16 +18,18 @@ public class LevelLoader : MonoBehaviour
 
     public void changePosition()
     {
-        int scene = SceneManager.GetActiveScene().buildIndex;
+        scene = SceneManager.GetActiveScene().buildIndex;
         GameObject player = GameObject.Find("Player");
 
         if (scene == 1)
         {
             player.transform.position = new Vector3(-12, -40, 0);
+            
         }
         else if (scene == 2)
         {
             player.transform.position = new Vector3(-14, 1, 0);
+            
         }
         else if (scene == 3)
         {
@@ -49,11 +53,17 @@ public class LevelLoader : MonoBehaviour
     {
         changePosition();
         DontDestroyOnLoad(cam);
+        GameObject player2 = GameObject.Find("Player");
+        m_Animator = player2.GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        if(scene == 2){
+            m_Animator.SetInteger("Era",1);
+        }else if(scene == 4){
+            m_Animator.SetInteger("Era",3);
+        }
     }
 }
