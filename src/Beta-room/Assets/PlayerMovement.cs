@@ -23,6 +23,8 @@ public class PlayerMovement : MonoBehaviour
     bool isInvincible;
     float invincibleTimer;
 
+    public int era;
+
     void Start()
     {
         currentHealth = maxHealth; 
@@ -74,4 +76,5 @@ public class PlayerMovement : MonoBehaviour
             
         
     }
+    
 }

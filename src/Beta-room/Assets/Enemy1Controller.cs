@@ -51,7 +51,7 @@ public class Enemy1Controller : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D other)
     {
-        PlayerMovement player = other.gameObject.GetComponent<PlayerMovement >();
+        PlayerMovement player = other.gameObject.GetComponent<PlayerMovement>();
 
         if(player != null){
             player.ChangeHealth(1);
