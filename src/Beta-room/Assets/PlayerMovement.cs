@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -50,6 +51,10 @@ public class PlayerMovement : MonoBehaviour
             invincibleTimer -= Time.deltaTime;
             if (invincibleTimer < 0)
                 isInvincible = false;
+        }
+        if(currentHealth <= 0){
+            Destroy(gameObject);
+            SceneManager.LoadScene(0);
         }
     }
 

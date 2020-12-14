@@ -3073,7 +3073,7 @@ PrefabInstance:
     - target: {fileID: 7008294112665163400, guid: 486209b81be9d4e1c8603d074a3f2d94,
         type: 3}
       propertyPath: m_JumpForce
-      value: 500
+      value: 750
       objectReference: {fileID: 0}
     - target: {fileID: 7008294112665163401, guid: 486209b81be9d4e1c8603d074a3f2d94,
         type: 3}
@@ -3184,6 +3184,11 @@ PrefabInstance:
         type: 3}
       propertyPath: runSpeed
       value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 7008294112665163412, guid: 486209b81be9d4e1c8603d074a3f2d94,
+        type: 3}
+      propertyPath: maxHealth
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 7008294112665163414, guid: 486209b81be9d4e1c8603d074a3f2d94,
         type: 3}
@@ -6729,7 +6734,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 200e8ab8ede5c41b28b64901d8cec82f, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.307
   m_Pitch: 1
   Loop: 1
   Mute: 0

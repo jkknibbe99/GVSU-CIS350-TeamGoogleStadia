@@ -21,7 +21,7 @@ public class LevelLoader : MonoBehaviour
 
         if (scene == 1)
         {
-            player.transform.position = new Vector3(-13, -1, 0);
+            player.transform.position = new Vector3(-12, -40, 0);
         }
         else if (scene == 2)
         {
