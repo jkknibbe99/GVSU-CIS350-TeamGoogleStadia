@@ -13,3 +13,4 @@ A hardcore roguelike platformer where the player begins as an ancient/prehistori
 ## Prerequisites
 
 ## Run Instructions
+A working computer
