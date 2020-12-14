@@ -11,6 +11,6 @@ A hardcore roguelike platformer where the player begins as an ancient/prehistori
 * [Gabe Armstrong](https://github.com/GabeArmstrong131/CIS350-HW2-ARMSTRONG) (Role 7, Role 8)
 
 ## Prerequisites
-
-## Run Instructions
 A working computer
+## Run Instructions
+
