@@ -8,7 +8,7 @@ public class Enemy2Controller : MonoBehaviour
     float timer;
     public float changeTime = 3.0f;
     Rigidbody2D rigidbody2d;
-    Vector2 lookDirection = new Vector2(1,0);
+    Vector2 lookDirection = new Vector2(-1,0);
     public float force;
     public int maxHealth = 100;
     int currentHealth;

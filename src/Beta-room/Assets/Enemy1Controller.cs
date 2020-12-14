@@ -54,7 +54,7 @@ public class Enemy1Controller : MonoBehaviour
         PlayerMovement player = other.gameObject.GetComponent<PlayerMovement >();
 
         if(player != null){
-            player.ChangeHealth(-1);
+            player.ChangeHealth(1);
         }
         //turns enemy around on any collision
         timer = -1;

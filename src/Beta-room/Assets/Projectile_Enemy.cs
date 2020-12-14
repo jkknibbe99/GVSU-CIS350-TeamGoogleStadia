@@ -24,7 +24,7 @@ public class Projectile_Enemy : MonoBehaviour
         Debug.Log("Projectile Collision with " + other.gameObject);
         
         if(player != null){
-            player.ChangeHealth(-1);
+            player.ChangeHealth(1);
             Destroy(gameObject);
         }else{
             Destroy(gameObject);

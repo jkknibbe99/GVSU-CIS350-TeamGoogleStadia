@@ -721,8 +721,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemy: {fileID: 8107480945053760760, guid: b9b592268eccc4ef5976759b0762ab40, type: 3}
-  maxSpawn: 4
-  lowerX: 61
+  maxSpawn: 11
+  lowerX: 14
   upperX: 143
 --- !u!4 &834597833
 Transform:
@@ -732,7 +732,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 834597831}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 143.4, y: -84.5, z: -131.49739}
+  m_LocalPosition: {x: 118.6, y: -84.2, z: -131.49739}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
