@@ -78,10 +78,7 @@ This section lists and describes unit tests, integration tests, and system tests
 | TC14 | The camera follows the player as he moves through the level | Start the game, move the character  | ‘A or D, ’ key to move | Camera follows the player | Camera eats the player | Pass | FR8, FR2 |
 | TC15 | Tests if the player loses health when colliding with an enemy | Move the character into an enemy | Use movement keys until colliding with an enemy | currentHealth == 14 | currentHealth == 14 | Pass | FR3 |
 | TC16 | Tests if the player returns to the first level when their health reaches 0 | Collide with an enemy or enemy projectile until currentHealth == 0 | Use movement keys to collide with an enemy 15 times | currentHealth == 0
-Player returns to the start of the first scene
- | currentHealth == 0
-Player returns to the start of the first scene 
- | Pass | FR3, FR6, NFR13 |
+Player returns to the start of the first scene | currentHealth == 0 Player returns to the start of the first scene | Pass | FR3, FR6, NFR13 |
 ## System Tests
 | ID | Description | Steps | Input Values | Expected Output | Actual Output | Pass/Fail | Requirement Link |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
