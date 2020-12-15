@@ -12,7 +12,7 @@ A hardcore platformer where the player begins as an ancient/prehistoric caste an
 
 ## Prerequisites
 A working computer
-Unity (at least version 2019.4.11 f1)
+Unity (at least version 2019.4.11 f1),
 Unity Hub
 ## Run Instructions
 1. Pull the git hub repo 
